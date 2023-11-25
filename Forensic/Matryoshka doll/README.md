@@ -14,6 +14,7 @@ di hint tersebut menjelaskan bahwa ada file tersembunyi di dalam file
 1. gunakan `binwalk dolls.jpg` untuk melihat apakah ada file tersembunyi di dalam gambar tersebut
 
 ![](https://github.com/MrPayMac/picoCTF/blob/main/Forensic/Matryoshka%20doll/binwalk.png)
+
 terlihat bahwa terdapat 2 file di dalam nya, yaitu file zip dan folder base_images yang didalam folder tersebut terdapat file 2_c.jpg
 
 2. ketik `binwalk -e dolls.jpg` untuk mengekstrak gambar tersebut
