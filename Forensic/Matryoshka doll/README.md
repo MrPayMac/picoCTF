@@ -5,6 +5,7 @@ Question :
 Hint :
 
 ![](https://github.com/MrPayMac/picoCTF/blob/main/Forensic/Matryoshka%20doll/Hints1.png)
+
 di hint tersebut menjelaskan bahwa ada file tersembunyi di dalam file
 
 
