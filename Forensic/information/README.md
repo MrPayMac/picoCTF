@@ -12,4 +12,4 @@ Hints2
 2. copy the License = `"cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9"`
 3. type `echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d`
 
-Flag = 'picoCTF{them3tadata_1s_modified}`
+Flag = `picoCTF{them3tadata_1s_modified}`
